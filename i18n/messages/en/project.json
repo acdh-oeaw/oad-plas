@@ -1,8 +1,8 @@
 {
-  "__cms__": true,
-  "Metadata": {
-    "name": "Plas: Prosopography of the Lascarid Period",
-    "shortName": "Plas Project",
-    "description": "The project ENCHANT, funded by the Austrian Science Fund FWF (P 36403-G) for the years 2023-2026, aims to provide such a comparison based on a systematic survey of important artefacts of these efforts, i. e. the documents issued by the state chancelleries of the Byzantine “empires in exile” of Nicaea and Trebizond, Cilician Armenia and the Seljuk Sultanate. The project provides a digital catalogue, a corpus of those documents whose texts have been transmitted at least in significant parts, and a number of publications presenting a comparative analysis of these multifaceted acts of “world (re)ordering” after crisis."
-  }
+	"__cms__": true,
+	"Metadata": {
+		"name": "Plas: Prosopography of the Lascarid Period",
+		"shortName": "Plas Project",
+		"description": "The project ENCHANT, funded by the Austrian Science Fund FWF (P 36403-G) for the years 2023-2026, aims to provide such a comparison based on a systematic survey of important artefacts of these efforts, i. e. the documents issued by the state chancelleries of the Byzantine “empires in exile” of Nicaea and Trebizond, Cilician Armenia and the Seljuk Sultanate. The project provides a digital catalogue, a corpus of those documents whose texts have been transmitted at least in significant parts, and a number of publications presenting a comparative analysis of these multifaceted acts of “world (re)ordering” after crisis."
+	}
 }
