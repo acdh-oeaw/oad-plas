@@ -1,8 +1,8 @@
 {
-	"__cms__": true,
-	"Metadata": {
-		"name": "OpenAtlas Discovery",
-		"shortName": "OpenAtlas Discovery",
-		"description": "OpenAtlas ist eine Open-Source-Datenbanksoftware, die speziell für die Erfassung, Bearbeitung und Verwaltung von Forschungsdaten aus verschiedenen Bereichen der Geisteswissenschaften entwickelt wurde."
-	}
+  "__cms__": true,
+  "Metadata": {
+    "name": "Plas: Prosopographie der Lascaridenzeit",
+    "shortName": "Plas Projekt",
+    "description": "Das vom Wissenschaftsfonds FWF (P 36403-G) für die Jahre 2023–2026 geförderte Projekt ENCHANT zielt darauf ab, einen solchen Vergleich anhand einer systematischen Untersuchung wichtiger Artefakte dieser Bemühungen zu ermöglichen, d. h. der Dokumente der Staatskanzleien der byzantinischen „Exilreiche“ Nicäa und Trapezunt, des kilikischen Armeniens und des seldschukischen Sultanats. Das Projekt bietet einen digitalen Katalog, ein Korpus jener Dokumente, deren Texte zumindest in wesentlichen Teilen überliefert sind, sowie eine Reihe von Publikationen, die eine vergleichende Analyse dieser vielschichtigen Akte der „Welt(neu)ordnung“ nach Krisen präsentieren."
+  }
 }
