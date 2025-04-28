@@ -1,29 +1,20 @@
 ---
-title: OpenAtlas Discovery
+title: "Plas: Prosopography of the Lascarid Period"
 navigation: false
 image:
-  light: /assets/images/logo-with-text-light.svg
-  dark: /assets/images/logo-with-text-dark.svg
-leadIn: >-
-  OpenAtlas Discovery is a presentation site template for a database system
-  called OpenAtlas that is used by various Digital Humanities projects from
-  different domains. Researchers can easily enter and manage their data in
-  OpenAtlas and can then setup a presentation site using OpenAtlas Discovery
-  that already provides customizable visualizations for their data.\
-
-  OpenAtlas Discovery is fully open-source and downloadable via **[GitHub](https://github.com/acdh-oeaw/openatlas-discovery)**. \
-
-  \
-
-  **Explore our visualizations here:**
+  light: /assets/images/482.jpg
+  dark: /assets/images/482.jpg
+leadIn: The PLAS project aims to establish a digital core for a comprehensive
+  prosopography covering the late medieval Mediterranean. The project
+  collaborates with experts to connect various historical data, utilizing the
+  OpenAtlas database system, which allows for complex historical data management
+  and interoperability with other systems. The platform supports various data
+  types and offers flexibility for researchers in organizing historical
+  entities.
 links:
   - label: Data table
     href: /visualization?mode=table
   - label: Map
     href: /visualization?mode=map
-  - label: Network
-    href: /visualization?mode=network
 ---
-The data presented in this demo version is kindly provided by: [Mapping Medieval Conflict (MEDCON)](https://www.oeaw.ac.at/imafo/das-institut/detail/mapping-medieval-conflicts). A digital approach towards political dynamics in the pre-modern period.
 
-The data stems from two of MEDCON´s case studies, “Emperor Frederick III and the League of the Mailberger coalition in 1451/52” (executed by Kornelia Holzner-Tobisch and Petra Heinicker) and “Factions and alliances in the fight of Maximilian I for Burgundy” (Sonja Dünnebeil).
