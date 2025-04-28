@@ -17,4 +17,3 @@ links:
   - label: Map
     href: /visualization?mode=map
 ---
-
