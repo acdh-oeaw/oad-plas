@@ -4,7 +4,7 @@ load_config_file: true
 local_backend: true
 backend:
   name: github
-  repo: acdh-oeaw/openatlas-discovery
+  repo: acdh-oeaw/oad-plas
   branch: develop
   base_url: https://discover-plas.openatlas.eu
   auth_endpoint: /api/oauth/authorize
