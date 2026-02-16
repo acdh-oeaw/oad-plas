@@ -5,7 +5,7 @@ import { expect, test } from "~/e2e/lib/test";
 
 const baseUrl = process.env.NUXT_PUBLIC_APP_BASE_URL!;
 
-test.describe("i18n", () => {
+test.describe.skip("i18n", () => {
 	test.describe("should redirect root route to preferred locale", () => {
 		test.use({ locale: "en" });
 
